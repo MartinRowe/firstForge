@@ -21,7 +21,7 @@ Route::get('trysass', function()
 });
 Route::get('martin', function()
 {
-    return 'Martin Rowe! Again and again for github';
+    return 'Martin Rowe! On Saturday 20th July';
 });
 Route::get('users', function()
 {
